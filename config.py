@@ -16,6 +16,9 @@ UPI_ID = "sakthirajtnbotz@fam"
 # Log channel id
 LOG_CHANNEL = -1002286569015
 
+# Owner id
+OWNER_ID = 1430742022
+
 # Mod's id (user id)
 MODS_ID = [1430742022, 6495253163]
 
