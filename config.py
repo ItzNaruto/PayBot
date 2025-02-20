@@ -5,7 +5,7 @@ API_ID = 11472991
 API_HASH = "c78c50d54baf2173e8b3f75c359c0c72"
 
 # Your bot token from bot father
-BOT_TOKEN = "7653029123:AAGZT26o00FphPZloCohvv-QI5-jFKIMBH4"
+BOT_TOKEN = "7653029123:AAFbrZT3cjAn_IttHCn0QyK3AkFhc_EQays"
 
 # Your qr code link
 QR_PIC_URL = "https://envs.sh/dhQ.jpg"
