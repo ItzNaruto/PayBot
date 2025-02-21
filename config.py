@@ -23,4 +23,4 @@ OWNER_ID = 1430742022
 MODS_ID = [1430742022, 6495253163]
 
 # Mongodb URL
-MONGODB_URL = "mongodb+srv://KarthikMovies:KarthikUK007@cluster0.4l5byki.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URL = "mongodb+srv://sakthiraj940:vFGkAQL9n@mR9!4@cluster0.h75s7.mongodb.net/?retryWrites=true&w=majority"
